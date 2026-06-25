@@ -1,8 +1,20 @@
-# GenAI Projects
+# Restaurant Review Analyzer
 
-This repository contains my hands-on GenAI projects built using Python.
+A GenAI project built using:
 
-## Projects
+- Python
+- Flask
+- Ollama
+- Phi-3
 
-- Restaurant Review Sentiment Analysis
-- More projects coming soon...
+Features:
+- Analyze restaurant reviews
+- Detect sentiment (Positive, Negative, Mixed)
+- REST API endpoint
+- Local LLM inference using Ollama
+
+## Run
+
+pip install -r requirements.txt
+
+python app.py
