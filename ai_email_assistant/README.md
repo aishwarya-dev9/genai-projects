@@ -47,6 +47,6 @@ streamlit run app.py
 4. Ollama sends the prompt to the local Llama 3 model.
 5. The generated email is displayed and can be downloaded.
 
-## Author
+## Sample Output
 
-**Aishwarya Hakkaladaddi**
+![Terminal Output](screenshots/ai_assistant.png)
